@@ -2,4 +2,4 @@
 
 require_once __DIR__ . '/bootstrap.php';
 
-echo 'Boogie, Boogie, Boogie';
+echo 'Boogie, Boogie, Boogie, Boogie';

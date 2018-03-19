@@ -8,5 +8,9 @@
       "name": "author's name",
       "email": "email@example.com"
     }
-  ]
+  ],
+
+  "require-dev": {
+    "twig/twig": "^2.4"
+  }
 }
